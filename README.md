@@ -19,20 +19,15 @@ This project is a database for managing a fantasy football league. It stores lea
   - `seeRecords`
   - `seeStandings`
 
-## Scripts
-All SQL scripts are in the `SQL/` folder:
-- `create_tables.sql` – creates the database tables
-- `insert_data.sql` – populates tables with sample data
-- `select_queries.sql` – contains select and extra queries
-- `views.sql` – contains view creation scripts
+## SQL Scripts
+All SQL scripts are included in the repository. These scripts cover:
+- Dropping and creating tables
+- Inserting data into tables
+- Executing select queries
+- Creating database views
 
 ## Screenshots
-Oracle APEX screenshots are in the `Screenshots/` folder.
-
-## Usage
-1. Open Oracle SQL Developer or Oracle APEX.
-2. Run the scripts in the following order:
-   - `create_tables.sql`
+Oracle APEX screenshots demonstrating the output of the SQL scripts are included in the repository.
    - `insert_data.sql`
    - `views.sql`
    - `select_queries.sql`
