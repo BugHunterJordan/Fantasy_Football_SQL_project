@@ -28,7 +28,3 @@ All SQL scripts are included in the repository. These scripts cover:
 
 ## Screenshots
 Oracle APEX screenshots demonstrating the output of the SQL scripts are included in the repository.
-   - `insert_data.sql`
-   - `views.sql`
-   - `select_queries.sql`
-3. Check the screenshots to see expected output.
